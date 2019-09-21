@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+
+"""Picorder - a Raspberry Pi-based tricorder
+
+Written by Terry Howald
+terry.howald@gmail.com
+"""
+
 import vlc
 import sys
 import time
