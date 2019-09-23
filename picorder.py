@@ -2,6 +2,13 @@
 
 """Picorder - a Raspberry Pi-based tricorder
 
+Required installs on Ubuntu:
+
+sudo apt install vlc
+sudo apt install python3-pip
+pip3 install python-vlc
+sudo apt install python3-rpi.gpio
+
 Written by Terry Howald
 terry.howald@gmail.com
 """
